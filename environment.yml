@@ -1,0 +1,35 @@
+name: 'env'
+channels:
+  - conda-forge
+  - pytorch
+  - bioconda
+  - plotly
+  - defaults
+dependencies:
+  - ipykernel
+  - scipy
+  - pandas      
+  - matplotlib 
+  - altair 
+  - scikit-learn
+  - plotly  
+  - requests
+  - pytorch 
+  - torchvision
+  - black
+  - flake8  
+  - jinja2
+  - pip 
+  - pandas-profiling 
+  - pip:
+    - torch-summary  
+    - sentence-transformers 
+    - psutil 
+    - yellowbrick 
+    - mglearn 
+    - seaborn 
+    - pyani
+    - spacy 
+    - wikipedia 
+    - gensim
+    - nltk 
