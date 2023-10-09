@@ -8,6 +8,6 @@ This repo hosts an Unsupervised Machine Learning [model](https://github.com/aras
 If you want to reproduce the [report](https://github.com/arashshams/Anomaly_Detection_with_PCA/blob/master/Analysis.ipynb) (`Analysis.ipynb`) on your local, simply run below commands in terminal to create the environment for running the notebook.
 
 ```
-conda env create -f environment.yaml
+conda env create -f environment.yml
 conda activate env
 ```
